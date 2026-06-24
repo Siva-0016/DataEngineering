@@ -1,0 +1,11 @@
+USE DataEngineeringDB;
+GO
+
+CREATE SCHEMA stg;
+GO
+
+CREATE SCHEMA ods;
+GO
+
+CREATE SCHEMA dwh;
+GO
