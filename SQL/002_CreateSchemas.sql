@@ -33,3 +33,6 @@ BEGIN
     EXEC('CREATE SCHEMA dwh');
 END;
 GO
+
+PRINT 'Schema deployment completed successfully';
+GO
